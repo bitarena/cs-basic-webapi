@@ -7,5 +7,6 @@
 - Clean Architecture
 - Authentication (openID connect, JWT)
 - Async/await.
-- Logging provider.
+- Logging.
 - Docker.
+- .editorconfig.
